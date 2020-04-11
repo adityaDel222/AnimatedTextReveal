@@ -1,0 +1,2 @@
+# AnimatedTextReveal
+Animated Text Reveal
